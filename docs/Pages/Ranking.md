@@ -4,6 +4,8 @@ transmit or amplify the already existing biases in today's society. Researchers 
 fairness algorithms have provided various possible ranking algorithms. We cite a few examples
 here.
 
+##FairSearch: An Open-source Library for Affirmative Actions in Search 
+
 ## Fair Top-k Ranking Algorithm
 Zehlike et al provided an algorithmic solution to the Fair Top-k Ranking problem over a
 single binary type attribute. With respect to the group fairness criteria, they provided
@@ -30,10 +32,12 @@ data processing.
 
 The above described algorithms can be found in following literature:
 
-Zehlike, Meike, et al. "[Fa* ir: A fair top-k ranking algorithm.](https://dl.acm.org/citation.cfm?id=3132938)" Proceedings of the 2017 ACM on Conference on Information and Knowledge Management. doi:10.1145/3132847.3132938. 
+Zehlike, Meike, Tom Sühr, Carlos Castillo, and Ivan Kitanovski. "[FairSearch: A Tool For Fairness in Ranked Search Results.](https://arxiv.org/pdf/1905.13134.pdf)" arXiv preprint arXiv:1905.13134 (2019).
+
+Zehlike, Meike, Francesco Bonchi, Carlos Castillo, Sara Hajian, Mohamed Megahed, and Ricardo Baeza-Yates. "[Fa* ir: A fair top-k ranking algorithm.](https://dl.acm.org/citation.cfm?id=3132938)" Proceedings of the 2017 ACM on Conference on Information and Knowledge Management. doi:10.1145/3132847.3132938. 
 <a href="Files/bib/Fair.bib">bibtex</a>
 
-Asudeh, Abolfazl, et al. "[Designing Fair Ranking Schemes](https://arxiv.org/abs/1712.09752)."arXiv preprint arXiv:1712.09752 (2017). <a href="Files/bib/asudeh.bib">bibtex</a>
+Asudeh, Abolfazl, H. V. Jagadish, Julia Stoyanovich, and Gautam Das. "[Designing Fair Ranking Schemes](https://arxiv.org/abs/1712.09752)."arXiv preprint arXiv:1712.09752 (2017). <a href="Files/bib/asudeh.bib">bibtex</a>
 
 Singh, Ashudeep, and Thorsten Joachims. "[Fairness of Exposure in Rankings](https://arxiv.org/abs/1802.07281)." arXiv preprint arXiv:1802.07281 (2018).<a href="Files/bib/singh.bib">bibtex</a>
 
