@@ -4,7 +4,10 @@ transmit or amplify the already existing biases in today's society. Researchers 
 fairness algorithms have provided various possible ranking algorithms. We cite a few examples
 here.
 
-## FairSearch: An Open-source Library for Affirmative Actions in Search 
+## FairSearch: An Open-source Library for Fairness Notions in Search 
+This project provides the first [fair open source search API](https://github.com/fair-search) to provide fairness notions in ranked search results. It implements two algorithms from the fair ranking literature, namely FA\*IR (Zehlike et al., 2017) and DELTR (Zehlike et al.,
+2018). Those are available as stand-alone libraries in Python and Java. Additionally the authors implement interfaces to Elasticsearch for both algorithms. The interfaces enable search engine developers who wish to ensure fair search
+results of different styles to easily integrate DELTR and FA\*IR into their existing Elasticsearch environment.
 
 ## Fair Top-k Ranking Algorithm
 Zehlike et al provided an algorithmic solution to the Fair Top-k Ranking problem over a
