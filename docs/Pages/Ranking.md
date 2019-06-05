@@ -37,7 +37,7 @@ The above described algorithms can be found in following literature:
 
 Zehlike, Meike, Tom Sühr, Carlos Castillo, and Ivan Kitanovski. "[FairSearch: A Tool For Fairness in Ranked Search Results.](https://arxiv.org/pdf/1905.13134.pdf)" arXiv preprint arXiv:1905.13134 (2019).
 
-Zehlike, Meike, Gina-Theresa Diehn and Carlos Castillo. "[Reducing disparate exposure in ranking: A learning to rank approach.] (https://arxiv.org/pdf/1805.08716.pdf)" arXiv preprint arXiv:1805.08716 (2018).
+Zehlike, Meike, Gina-Theresa Diehn and Carlos Castillo. "[Reducing disparate exposure in ranking: A learning to rank approach.](https://arxiv.org/pdf/1805.08716.pdf)" arXiv preprint arXiv:1805.08716 (2018).
 
 Zehlike, Meike, Francesco Bonchi, Carlos Castillo, Sara Hajian, Mohamed Megahed, and Ricardo Baeza-Yates. "[Fa* ir: A fair top-k ranking algorithm.](https://dl.acm.org/citation.cfm?id=3132938)" Proceedings of the 2017 ACM on Conference on Information and Knowledge Management. doi:10.1145/3132847.3132938. 
 <a href="Files/bib/Fair.bib">bibtex</a>
