@@ -4,7 +4,7 @@ transmit or amplify the already existing biases in today's society. Researchers 
 fairness algorithms have provided various possible ranking algorithms. We cite a few examples
 here.
 
-##FairSearch: An Open-source Library for Affirmative Actions in Search 
+## FairSearch: An Open-source Library for Affirmative Actions in Search 
 
 ## Fair Top-k Ranking Algorithm
 Zehlike et al provided an algorithmic solution to the Fair Top-k Ranking problem over a
